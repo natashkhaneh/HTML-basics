@@ -1,0 +1,11 @@
+body {
+  background-color: #FFE4C4;
+}
+h1 {
+  font-size: 48px;
+  font-family: "Calibri", Times, serif;
+  color: #DC143C;
+}
+label {
+  color: green;
+}
